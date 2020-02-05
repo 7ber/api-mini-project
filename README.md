@@ -2,14 +2,17 @@
 Api Mini Project
 ## DESCRIPTION
 Stock Prices for Carl Zeiss Meditec
+
 for the whole year 2017
+
 from the Frankfurt Stock Exchange
+
 via Quandl.com
 
 
 These questions are answered for this mini project:
 
-1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
+1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017.
 2. Convert the returned JSON object into a Python dictionary.
 3. Calculate what the highest and lowest opening prices were for the stock in this period.
 4. What was the largest change in any one day (based on High and Low price)?
