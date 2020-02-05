@@ -18,4 +18,4 @@ These questions are answered for this mini project:
 4. What was the largest change in any one day (based on High and Low price)?
 5. What was the largest change between any two days (based on Closing Price)?
 6. What was the average daily trading volume during this year?
-7. What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
+7. What was the median trading volume during this year.
